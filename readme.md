@@ -1,4 +1,4 @@
-
+# This repo was cloned from https://github.com/devopsjourney1/argo-examples .
 
 # Follow this video to be a ArgoCD Boss
 https://youtu.be/JLrR9RV9AFA
